@@ -4,7 +4,7 @@ Basados en encuestas realizadas a los usuarios, se definieron los requerimientos
 
 ### Requerimientos de usuario
 
-  Usuario: persona que hará uso del producto (página web), en este caso, estudiantes de último año de bachillerato. 
+  Usuario: persona que hará uso del producto (página web), y en este caso, cualquier futuro aspirante a cualquiera de alguna de las ingenierías y licenciaturas relacionadas a la informática y computación ofertadas por la UADY. 
 
   - Toda la información se presentará en una página web. 
   - El usuario tendrá una definición de cada una de las distintas carreras relacionadas a la informática y computación ofrecidas por la UADY.
