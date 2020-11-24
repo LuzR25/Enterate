@@ -4,6 +4,8 @@ Basados en encuestas realizadas a los usuarios, se definieron los requerimientos
 
 ### Requerimientos de usuario
 
+  Usuario: persona que hará uso del producto (página web), en este caso, estudiantes de último año de bachillerato. 
+
   - Toda la información se presentará en una página web. 
   - El usuario tendrá una definición de cada una de las distintas carreras relacionadas a la informática y computación ofrecidas por la UADY.
   - El usuario tendrá acceso a la malla curricular y al plan de estudios de las distintas carreras.
@@ -20,6 +22,7 @@ Basados en encuestas realizadas a los usuarios, se definieron los requerimientos
 
 #### Requerimientos no funcionales
 
+  - Lenguaje de programación: HTML
   - Hipervínculos: se usarán para posibilitar la descarga de cualquier documento oficial necesario. 
   - Botones con hipervínculos: permitirán que se despliegue una sección distinta, que corresponderá a cada una de las carreras relacionadas a la informática y computación de la UADY. 
 
